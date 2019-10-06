@@ -12,7 +12,7 @@ public class Game {
     }
 
     public Board generateGameBoard(int size) {
-        if(size < 8 || size > 10) {                     //dlaczego nie jest wpisane po prostu size!=9 ???
+        if(size < 8 || size > 10) {
             throw new IllegalArgumentException();
         }
 

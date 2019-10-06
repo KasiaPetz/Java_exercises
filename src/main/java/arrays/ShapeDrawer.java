@@ -30,7 +30,7 @@ public class ShapeDrawer {
 
     public static void triangle(int height) {
         for (int i = 0; i < height; i++) {
-            for (int j = 0; j < i ; j++) {  //wydrukuj i gwiazdek gdzie i oznacza nr rzedu
+            for (int j = 0; j < i ; j++) {
                 System.out.print("*");
             }
             System.out.println();
@@ -46,14 +46,14 @@ public class ShapeDrawer {
             }
             numberOfSpaces--;
 
-            for (int k = 1; k <= 2 * (i -1) + 1; k++) {   //tego nie czaje
+            for (int k = 1; k <= 2 * (i -1) + 1; k++) {
                 System.out.print("*");
             }
             System.out.println();
         }
     }
 
-    public static void bigL(int height, int width) {  //na bank da sie zrefaktorowac
+    public static void bigL(int height, int width) {
         for (int i = 0; i < height ; i++) {
 
             if (i <= height/2) {
@@ -85,7 +85,7 @@ public class ShapeDrawer {
        //rectangle(height, width);
        //frame(height, width);
        //triangle(height);
-        //tree(height);
+        // tree(height);
        //bigL(height, width);
     }
 

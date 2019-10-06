@@ -7,7 +7,6 @@ import java.io.FileReader;
 public class CheckedException {
     public static void main(String[] args) {
 
-        //Wyjatki checked to takie wyjatki ktore musismy obsluzyc, czyli napisac try catch lub rzucic wyjatkiem dalej.
 
         File file = new File("plik.txt");
 

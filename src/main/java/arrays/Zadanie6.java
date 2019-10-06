@@ -34,7 +34,7 @@ public class Zadanie6 {
         }
 
         for (int i = 0; i < table.length; i++) {                      // po wierszach
-            for (int j = 0; j < table[i].length; j++) {                // po kolumnach, warosc i jest tutaj iloscia obrotów
+            for (int j = 0; j < table[i].length; j++) {               // po kolumnach
               System.out.print(table[i][j]);
             }
             System.out.println();

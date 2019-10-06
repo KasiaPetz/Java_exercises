@@ -7,7 +7,7 @@ package arrays;
 
 public class EveryFive {
 
-    public int[] retriveArray(int [] inputArray) {          //ma zwracac tablice liczb od 20 do 120 z przekazanej tablicy
+    public int[] retriveArray(int [] inputArray) {
         int counter = 0;
 
         for(int i = 0; i < inputArray.length; i++) {
