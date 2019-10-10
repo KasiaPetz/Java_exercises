@@ -1,12 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/arrays/Zadanie2.java" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" line="29" />
     <bookmark url="file://$PROJECT_DIR$/src/main/java/board/None.java" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
+    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="Refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/primenumbers/PrimeNumbSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/primenumbers/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/EveryFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/JoinArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/MaxAndMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/OddNumbersExeminator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/ShapeDrawer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/primenumbers/PrimeNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/primenumbers/PrimeNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/EveryFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/JoinArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/OddNumbersExeminator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/OddNumbersExeminator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ShapeDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbSecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/OddNumbersExeminatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/OddNumbersExeminatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/primenumbers/PrimeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/primenumbers/PrimeNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/recursion/FactionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/recursion/FibonacciTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -23,122 +73,14 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/students/Calculations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34187">
-              <caret line="2084" column="24" selection-start-line="2084" selection-start-column="24" selection-end-line="2084" selection-end-column="24" />
-              <folding>
-                <element signature="e#82971#82972#0" expanded="true" />
-                <element signature="e#83020#83021#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/students/Grades.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/students/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-              <folding>
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/students/CalculationsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbSecond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -153,34 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Queque.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Set.java" />
-        <option value="$PROJECT_DIR$/src/test/java/collections/collection/MySetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Map.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbSecond.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania/EveryFive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania/JoinArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Lists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/MySet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania/MaxAndMin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/IteratorExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania/OddNumbersExeminator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/zadania/OddNumbersExeminatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Board.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/BoardRow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Figure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/None.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Pawn.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Queen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/board/GameTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Game.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadania/ShapeDrawer.java" />
         <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/ForumUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/Forum.java" />
@@ -204,21 +118,50 @@
         <option value="$PROJECT_DIR$/src/test/java/students/CalculationsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadania/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/students/Calculations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/EveryFive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/MaxAndMin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/ShapeDrawer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/Zadanie3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/Zadanie6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/board/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/OddNumbersExeminator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iterations/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/SquereNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursion/MojWujontekException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/RepeatString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercises/SquereNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="837" />
+    <option name="x" value="337" />
     <option name="width" value="1091" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,11 +187,58 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,10 +248,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570362072010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570714157362" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubblesort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -269,17 +259,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="recursion.fibonacci" />
+      <recent name="exercises" />
+      <recent name="exercises.repeatString" />
       <recent name="food2door" />
       <recent name="students" />
-      <recent name="board" />
-      <recent name="zadania" />
-      <recent name="collections.collection" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="utils" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="exercises.repeatString" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kasia\Desktop\Java_Korepetycje\src\main\java" />
@@ -297,13 +290,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculationsTest.shouldCalculateBestAverage">
-    <configuration name="NamesList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.forumUser.NamesList" />
+  <component name="RunManager" selected="JUnit.RepeatStringWithExeptionTest">
+    <configuration name="SquereNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SquereNumbers" />
       <module name="Java_Korepetycje.Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.forumUser.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,65 +304,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationsTest.findStudentsNamesWithBestAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Korepetycje.Java_Korepetycje.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="students.*" />
+          <option name="PATTERN" value="recursion.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="students" />
-      <option name="MAIN_CLASS_NAME" value="students.CalculationsTest" />
-      <option name="METHOD_NAME" value="findStudentsNamesWithBestAverage" />
+      <option name="PACKAGE_NAME" value="recursion.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="recursion.fibonacci.FibonacciIterationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciIterationTest.fibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Korepetycje.Java_Korepetycje.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="recursion.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="recursion.fibonacci.FibonacciIterationTest" />
+      <option name="METHOD_NAME" value="fibonacciTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationsTest.shouldCalculateBestAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatStringWithExeptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Korepetycje.Java_Korepetycje.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="students.*" />
+          <option name="PATTERN" value="exercises.repeatString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="students" />
-      <option name="MAIN_CLASS_NAME" value="students.CalculationsTest" />
-      <option name="METHOD_NAME" value="shouldCalculateBestAverage" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="exercises.repeatString" />
+      <option name="MAIN_CLASS_NAME" value="exercises.repeatString.RepeatStringWithExeptionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationsTest.shouldFindStudentsNamesWithBestAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatStringWithExeptionTest.shouldRepeatStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Korepetycje.Java_Korepetycje.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="students.*" />
+          <option name="PATTERN" value="exercises.repeatString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="students" />
-      <option name="MAIN_CLASS_NAME" value="students.CalculationsTest" />
-      <option name="METHOD_NAME" value="shouldFindStudentsNamesWithBestAverage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderProcessorTest.shouldProdessOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Korepetycje.Java_Korepetycje.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="food2door.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="food2door" />
-      <option name="MAIN_CLASS_NAME" value="food2door.OrderProcessorTest" />
-      <option name="METHOD_NAME" value="shouldProdessOrder" />
+      <option name="PACKAGE_NAME" value="exercises.repeatString" />
+      <option name="MAIN_CLASS_NAME" value="exercises.repeatString.RepeatStringWithExeptionTest" />
+      <option name="METHOD_NAME" value="shouldRepeatStr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -377,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculationsTest.shouldCalculateBestAverage" />
-        <item itemvalue="JUnit.CalculationsTest.shouldFindStudentsNamesWithBestAverage" />
-        <item itemvalue="JUnit.CalculationsTest.findStudentsNamesWithBestAverage" />
-        <item itemvalue="JUnit.OrderProcessorTest.shouldProdessOrder" />
-        <item itemvalue="Application.NamesList" />
+        <item itemvalue="JUnit.RepeatStringWithExeptionTest" />
+        <item itemvalue="JUnit.FibonacciIterationTest" />
+        <item itemvalue="JUnit.FibonacciIterationTest.fibonacciTest" />
+        <item itemvalue="Application.SquereNumbers" />
+        <item itemvalue="JUnit.RepeatStringWithExeptionTest.shouldRepeatStr" />
       </list>
     </recent_temporary>
   </component>
@@ -445,14 +434,12 @@
       <workItem from="1569768608656" duration="1847000" />
       <workItem from="1570119569823" duration="2958000" />
       <workItem from="1570357353567" duration="434000" />
-      <workItem from="1570357828474" duration="2820000" />
+      <workItem from="1570357828474" duration="3939000" />
+      <workItem from="1570467129287" duration="21629000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 31m 12s.xml">
-      <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 34m 19s.xml">
       <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
     </history-entry>
@@ -480,15 +467,17 @@
     <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.10.04 at 14h 05m 26s.xml">
       <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RepeatStringWithExeptionTest - 2019.10.10 at 14h 07m 01s.xml">
+      <configuration name="RepeatStringWithExeptionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289776000" />
+    <option name="totallyTimeSpent" value="312524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.128125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.128125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -503,10 +492,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32910052" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32910052" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32910052" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.32910052" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32804233" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32804233" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -524,332 +513,264 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/DiselEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/ElectricEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/GasolineEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Motocycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/Zadanie2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/BoardRow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/Zadanie3Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/None.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/Zadanie6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/OddNumbersExeminator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/OddNumbersExeminatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/board/GameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/None.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Pawn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/ShapeDrawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="183" column="26" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/BoardRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/ForumUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/Forum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Kasia.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1038#1039#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-9">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/OddNumbersExeminator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PinValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/MojWujontekException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -857,123 +778,137 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/carRental/CarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/food2door/OrderProcessorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/students/SubjectGrades.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="544">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/MaxAndMin.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/SquereNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="153">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/students/Calculations.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="187">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Factional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34187">
-          <caret line="2084" column="24" selection-start-line="2084" selection-start-column="24" selection-end-line="2084" selection-end-column="24" />
-          <folding>
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/students/Grades.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/OperatorTrojargumentowy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/students/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-          <folding>
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/students/CalculationsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbSecond.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
