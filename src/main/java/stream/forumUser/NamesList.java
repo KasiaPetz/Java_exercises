@@ -17,7 +17,6 @@ public class NamesList {
         Collections.sort(inputList);
     }
 
-
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
 
@@ -37,6 +36,4 @@ public class NamesList {
 
         System.out.println(resultList);
     }
-
-
 }

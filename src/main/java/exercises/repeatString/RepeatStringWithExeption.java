@@ -1,6 +1,7 @@
 package exercises.repeatString;
 
 //Write a function called repeatString which repeats the given String src exactly count times.
+//for fun
 
 /*public class RepeatStringWithExeption implements RepaeatString{
 

@@ -6,57 +6,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sort/BubbleSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/primenumbers/PrimeNumbSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/primenumbers/PrimeNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/EveryFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/JoinArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/MaxAndMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/OddNumbersExeminator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/ShapeDrawer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/zadania/Zadanie6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/primenumbers/PrimeNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/primenumbers/PrimeNumbersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/EveryFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/JoinArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/OddNumbersExeminator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/OddNumbersExeminator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ShapeDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Zadanie6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbSecond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/primenumbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/OddNumbersExeminatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/OddNumbersExeminatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrays/Zadanie5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie5Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/primenumbers/PrimeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/primenumbers/PrimeNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/recursion/FactionalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/recursion/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Motocycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Motocycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/exercises/PinValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercises/PinValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/exesandohs/ExesAndOhs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exesandohs/ExesAndOhs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/reverseword/ReverseWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/reverseword/ReverseWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/students/Calculations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/students/Calculations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/students/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/students/Calculations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -73,7 +47,35 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,20 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zadania/ShapeDrawer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/ForumUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/Forum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/Orderprocessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/ExstraFoodShp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/students/calculations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/students/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/students/Grades.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/OrderRequest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java" />
         <option value="$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java" />
         <option value="$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java" />
         <option value="$PROJECT_DIR$/src/main/java/food2door/Producer.java" />
@@ -117,7 +105,6 @@
         <option value="$PROJECT_DIR$/src/main/java/students/SubjectGrades.java" />
         <option value="$PROJECT_DIR$/src/test/java/students/CalculationsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadania/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/students/Calculations.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/EveryFive.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/MaxAndMin.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/ShapeDrawer.java" />
@@ -128,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/main/java/exercises/OddNumbersExeminator.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterations/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/SquereNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/MojWujontekException.java" />
@@ -138,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercises/SquereNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java" />
@@ -146,11 +131,28 @@
         <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/students/Calculations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carRental/Truck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carRental/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/SortAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/sort/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="337" />
+    <option name="x" value="820" />
     <option name="width" value="1091" />
     <option name="height" value="1056" />
   </component>
@@ -162,6 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +197,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -201,16 +213,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="iterations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
@@ -231,14 +234,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="iterations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +249,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570714220898" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571168062891" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubblesort" />
@@ -259,20 +260,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="iterations" />
+      <recent name="sort" />
       <recent name="recursion.fibonacci" />
       <recent name="exercises" />
       <recent name="exercises.repeatString" />
-      <recent name="food2door" />
-      <recent name="students" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="exercises.repeatString" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kasia\Desktop\Java_Korepetycje\src\main\java" />
@@ -290,16 +291,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RepeatStringWithExeptionTest">
-    <configuration name="SquereNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SquereNumbers" />
+  <component name="RunManager" selected="JUnit.BubbleSortTest">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzz" />
       <module name="Java_Korepetycje.Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Korepetycje.Java_Korepetycje.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.BubbleSortTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -318,22 +333,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciIterationTest.fibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Korepetycje.Java_Korepetycje.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.fibonacci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="recursion.fibonacci" />
-      <option name="MAIN_CLASS_NAME" value="recursion.fibonacci.FibonacciIterationTest" />
-      <option name="METHOD_NAME" value="fibonacciTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RepeatStringWithExeptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Korepetycje.Java_Korepetycje.test" />
       <extension name="coverage">
@@ -348,29 +347,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatStringWithExeptionTest.shouldRepeatStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Korepetycje.Java_Korepetycje.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.repeatString.*" />
+          <option name="PATTERN" value="reverseword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercises.repeatString" />
-      <option name="MAIN_CLASS_NAME" value="exercises.repeatString.RepeatStringWithExeptionTest" />
-      <option name="METHOD_NAME" value="shouldRepeatStr" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="reverseword" />
+      <option name="MAIN_CLASS_NAME" value="reverseword.ReverseWordTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BubbleSortTest" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="JUnit.ReverseWordTest" />
         <item itemvalue="JUnit.RepeatStringWithExeptionTest" />
         <item itemvalue="JUnit.FibonacciIterationTest" />
-        <item itemvalue="JUnit.FibonacciIterationTest.fibonacciTest" />
-        <item itemvalue="Application.SquereNumbers" />
-        <item itemvalue="JUnit.RepeatStringWithExeptionTest.shouldRepeatStr" />
       </list>
     </recent_temporary>
   </component>
@@ -435,23 +432,20 @@
       <workItem from="1570119569823" duration="2958000" />
       <workItem from="1570357353567" duration="434000" />
       <workItem from="1570357828474" duration="3939000" />
-      <workItem from="1570467129287" duration="21629000" />
+      <workItem from="1570467129287" duration="22284000" />
+      <workItem from="1571164929100" duration="3695000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactor">
+      <created>1570714202046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570714202046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 34m 19s.xml">
-      <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 34m 29s.xml">
-      <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 35m 08s.xml">
-      <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 35m 53s.xml">
-      <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculationsTest_shouldCalculateBestAverage - 2019.09.25 at 21h 36m 29s.xml">
       <configuration name="CalculationsTest.shouldCalculateBestAverage" configurationId="JUnit" />
     </history-entry>
@@ -470,14 +464,27 @@
     <history-entry file="RepeatStringWithExeptionTest - 2019.10.10 at 14h 07m 01s.xml">
       <configuration name="RepeatStringWithExeptionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FibonacciIterationTest - 2019.10.10 at 15h 27m 45s.xml">
+      <configuration name="FibonacciIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatStringWithExeptionTest - 2019.10.10 at 15h 29m 20s.xml">
+      <configuration name="RepeatStringWithExeptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordTest - 2019.10.15 at 20h 46m 48s.xml">
+      <configuration name="ReverseWordTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BubbleSortTest - 2019.10.15 at 21h 14m 38s.xml">
+      <configuration name="BubbleSortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312524000" />
+    <option name="totallyTimeSpent" value="316874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.128125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123958334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -486,7 +493,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32804233" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.19788359" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.19788359" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,7 +502,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32910052" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.32910052" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32804233" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32804233" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -518,153 +525,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/DiselEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/ElectricEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/GasolineEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Motocycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/BoardRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/None.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Pawn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -693,13 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="733">
           <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PinValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -732,38 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/MojWujontekException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/MojWujontekException.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
@@ -782,94 +604,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/SquereNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Factional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/OperatorTrojargumentowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/FibonacciTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/SquereNumbersTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Fibonacci.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/FibonacciTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -877,13 +614,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -909,6 +639,263 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/primenumbers/PrimeNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/OperatorTrojargumentowy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Factional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/students/Calculations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Motocycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/GasolineEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/ElectricEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/DiselEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PinValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/SortAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sort/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>

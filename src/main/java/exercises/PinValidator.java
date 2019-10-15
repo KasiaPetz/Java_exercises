@@ -9,7 +9,6 @@ public class PinValidator {
         if((pin.length() !=4 && pin.length() != 6) || pin.matches("\\D+")) {
             return false;
         }
-
         return true;
     }
 }
@@ -27,7 +26,6 @@ public class PinValidator {
 //            }
 //        }
 //        return true;
-//
 //    }
 //
 //}

@@ -17,7 +17,6 @@ public class ExesAndOhs {
                 oCounter++;
             }
         }
-
         return oCounter == xCounter;    //zwraca true lub false
     }
 }

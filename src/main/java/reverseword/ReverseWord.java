@@ -21,14 +21,11 @@ public class ReverseWord {
             tempCharArray[i] = input.charAt(i);
         }
 
-        for (int j = 0; j < len; j++) {                 // chciałam debugowac ale sie nie udało
+        for (int j = 0; j < len; j++) {
             charArray[j] = tempCharArray[len - 1 - j];
         }
 
-        //String revWord = charArray.toString();    // dlaczego takie cos nie ???
-
         String revWord = new String(charArray);
-
         return revWord;
     }
 }

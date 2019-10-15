@@ -16,7 +16,8 @@ public abstract class Vehicle {
     private double totalKm;
     private Engine engine;
 
-    public Vehicle(int registrationNumber, int vinNumber, String color, double price, double fuelUsagePer100Km, double amountOfFuelInLiters, double totalKm, Engine engine) {
+    public Vehicle(int registrationNumber, int vinNumber, String color, double price, double fuelUsagePer100Km,
+                   double amountOfFuelInLiters, double totalKm, Engine engine) {
         this.registrationNumber = registrationNumber;
         this.vinNumber = vinNumber;
         this.color = color;

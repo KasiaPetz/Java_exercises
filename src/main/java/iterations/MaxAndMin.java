@@ -10,7 +10,6 @@ package iterations;
 import utils.RandomUtils;
 
 public class MaxAndMin {
-   // public static void main(String[] args) {
 
         int[] array = RandomUtils.generateRandomIntArray(10, 0, 9);
 
@@ -22,6 +21,7 @@ public class MaxAndMin {
                     max = inputArray[i];
                 }
             }
+
             return max;
         }
 
@@ -36,5 +36,4 @@ public class MaxAndMin {
 
             return average;
         }
-
 }

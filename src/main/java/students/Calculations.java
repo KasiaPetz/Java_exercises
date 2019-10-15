@@ -62,8 +62,6 @@ public class Calculations {
                 polishStudents.add(entry.getKey());
             }
         }
-
-
         return null;
     }
 
@@ -77,7 +75,6 @@ public class Calculations {
                 .average()
                 .orElse(0);
     }
-
 }
 
 

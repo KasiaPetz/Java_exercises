@@ -6,12 +6,14 @@ package iterations;
 //Wyświetl co piątą liczbe
 
 public class EveryFive {
+    final int ARRAY_SIZE = 20;
+    final int SCOPE = 120;
 
     public int[] retriveArray(int [] inputArray) {
         int counter = 0;
 
         for(int i = 0; i < inputArray.length; i++) {
-            if( inputArray[i] >= 20 && inputArray[i] <= 120) {
+            if( inputArray[i] >= ARRAY_SIZE && inputArray[i] <= SCOPE) {
                 counter++;
             }
         }
@@ -20,7 +22,7 @@ public class EveryFive {
         int j = 0;
 
         for( int i = 0; i < inputArray.length; i++) {
-            if( inputArray[i] >= 20 && inputArray[i] <= 120) {
+            if( inputArray[i] >= ARRAY_SIZE && inputArray[i] <= SCOPE) {
                 selectArray[j] = inputArray[i];
                 j++;
             }
