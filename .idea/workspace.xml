@@ -5,32 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/board/None.java" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sort/BubbleSortTest.java" afterDir="false" />
+    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Motocycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Motocycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/carRental/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carRental/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercises/PinValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercises/PinValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exesandohs/ExesAndOhs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exesandohs/ExesAndOhs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/reverseword/ReverseWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/reverseword/ReverseWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/students/Calculations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/students/Calculations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/students/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/students/Calculations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/iterations/MaxAndMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/iterations/MaxAndMin.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -60,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="544">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -249,7 +226,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571168062891" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571242481058" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubblesort" />
@@ -433,7 +410,7 @@
       <workItem from="1570357353567" duration="434000" />
       <workItem from="1570357828474" duration="3939000" />
       <workItem from="1570467129287" duration="22284000" />
-      <workItem from="1571164929100" duration="3695000" />
+      <workItem from="1571164929100" duration="4891000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor">
       <created>1570714202046</created>
@@ -442,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570714202046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactor">
+      <created>1571168655132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571168655132</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -478,7 +462,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="316874000" />
+    <option name="totallyTimeSpent" value="318070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -894,8 +878,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
