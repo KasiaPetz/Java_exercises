@@ -1,6 +1,6 @@
 package exercises.repeatString;
 
-public class RepeatStringBuilder implements RepaeatString {
+public class RepeatStringImpl implements RepeatString {
 
     @Override
     public String repeatStr(int repeat, String string)  {
@@ -11,4 +11,5 @@ public class RepeatStringBuilder implements RepaeatString {
         }
         return sb.toString();
     }
+
 }

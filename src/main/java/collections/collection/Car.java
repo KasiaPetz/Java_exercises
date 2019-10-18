@@ -2,7 +2,7 @@ package collections.collection;
 
 import java.util.Objects;
 
-public class Car implements Comparable{
+public class Car implements Comparable {
     private String brand;
     private int year;
 

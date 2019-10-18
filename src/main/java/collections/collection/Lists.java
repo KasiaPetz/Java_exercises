@@ -12,7 +12,7 @@ public class Lists {
     public static void main(String[] args) {
         List<String> arrayList = new ArrayList<>();
         //int[] array = { 1, 2, 3 };
-       // List<Integer> linkedList = Arrays.asList(array);
+        // List<Integer> linkedList = Arrays.asList(array);
 
 
         arrayList.add("Kasia");
@@ -40,17 +40,17 @@ public class Lists {
 //
 //        System.out.println("List after loop" + arrayList);
 
-        arrayList.removeIf(n -> ( n.equals("Kasia")));
+        arrayList.removeIf(n -> (n.equals("Kasia")));
 
         System.out.println("List after removeIf(): " + arrayList);
 
         System.out.println();
 
-        for (String name: arrayList) {
+        for (String name : arrayList) {
             System.out.println("Ptintln forLoop: " + name);
         }
 
-        for(int i =0; i < 30; i++) {
+        for (int i = 0; i < 30; i++) {
             arrayList.add("Kasia");
         }
 

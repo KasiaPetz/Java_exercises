@@ -7,10 +7,11 @@ public class SquereNumbers {
     public static boolean isSquare(int n) {
 
         for (int i = 0; i < n; i++) {
-            if( i * i == n) {
+            if (i * i == n) {
                 return true;
             }
         }
+
         return false;
     }
 
@@ -18,5 +19,9 @@ public class SquereNumbers {
         boolean result = isSquare(25);
 
         System.out.println(result);
+
+        double n = 3;
+        double r = Math.sqrt(n);
+        System.out.println(r - Math.floor(r) == 0);
     }
 }

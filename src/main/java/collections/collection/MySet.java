@@ -22,7 +22,7 @@ public class MySet {
         set.add("Ewa");
         set.add("Ola");
 
-        for(String value: set) {
+        for (String value : set) {
             System.out.println(value);
         }
 
@@ -35,8 +35,6 @@ public class MySet {
         System.out.println("Is empty: " + set.isEmpty());
 
         System.out.println("Contains: " + set.contains("Ewa"));
-
-
 
 
     }

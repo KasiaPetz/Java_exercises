@@ -6,7 +6,7 @@ package exercises;
 public class PinValidator {
 
     public boolean validatePin(String pin) {
-        if((pin.length() !=4 && pin.length() != 6) || pin.matches("\\D+")) {
+        if ((pin.length() != 4 && pin.length() != 6) || pin.matches("\\D+")) {
             return false;
         }
         return true;

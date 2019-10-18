@@ -18,10 +18,10 @@ public class IteratorExample {
 
         Iterator<String> it = stringList.iterator();
 
-        while(it.hasNext()) {
+        while (it.hasNext()) {
             String word = it.next();
 
-            if(word.length() == 3) {
+            if (word.length() == 3) {
                 it.remove();
             }
 
@@ -29,7 +29,7 @@ public class IteratorExample {
 
         System.out.println(stringList);
 
-        stringList.removeIf(n ->n.length()==3);
+        stringList.removeIf(n -> n.length() == 3);
 
     }
 }

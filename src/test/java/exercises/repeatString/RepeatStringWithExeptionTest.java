@@ -8,7 +8,7 @@ public class RepeatStringWithExeptionTest {
     @Test
     public void shouldRepeatStr() {
         //given
-        RepaeatString rs = new RepeatStringBuilder();
+        RepeatString rs = new RepeatStringImpl();
 
         //when
         String result = rs.repeatStr(3, "abc");

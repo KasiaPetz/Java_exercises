@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class ReverseWordTest {
 
     @Test
-    public void reverseWordTest(){
+    public void reverseWordTest() {
         //given
         String word = "Michal";
 

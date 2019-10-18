@@ -21,7 +21,7 @@ public class MyMap {
         map.put(15, car4);
         map.put(18, car5);
 
-        for ( Map.Entry<Integer, Car> entry: map.entrySet()) {
+        for (Map.Entry<Integer, Car> entry : map.entrySet()) {
             System.out.println("Key: " + entry.getKey() + " value: " + entry.getKey());
         }
 
