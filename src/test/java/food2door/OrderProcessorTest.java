@@ -9,7 +9,7 @@ public class OrderProcessorTest {
     @Test
     public void shouldProdessOrder() {
         //given
-        Producer producer = new HealthyShop();
+        Producer producer = new GlutenFreeShop();
         Order order = new Order(1, LocalDate.of(2019, 10, 25),
                 "eggs", 10);
 

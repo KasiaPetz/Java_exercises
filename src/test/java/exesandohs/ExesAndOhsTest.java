@@ -7,9 +7,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 //# Exes and Ohs
 //
-//        Sprawdź czy napis ma taką samą ilość 'x' co 'o'.
-//
-//        Metoda zwraca boolean i nie powinna rozróżniać wielkości liter.
+//  Sprawdź czy napis ma taką samą ilość 'x' co 'o'.
+//  Metoda zwraca boolean i nie powinna rozróżniać wielkości liter.
 //
 //        Np.
 //
@@ -18,7 +17,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 //        "Xxoo" -> true
 //        "abcdxx" -> false
 //        "tttyGGyy" -> true
-
 
 public class ExesAndOhsTest {
 

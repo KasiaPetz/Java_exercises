@@ -22,17 +22,17 @@ public class Calculator {
     }
 
 
-//    public static void main(String[] args) {
-//
-//       Calculator calculator = new Calculator();
-//        try {
-//            double result = calculator.divide(3, 0);
-//            System.out.println(result);
-//        } catch (ArithmeticException e) {
-//            e.printStackTrace();
-//            System.out.println("Division by zero! Error " + e);
-//        } finally {
-//            System.out.println("The end...");
-//        }
-//    }
+    public static void main(String[] args) {
+
+        Calculator calculator = new Calculator();
+        try {
+            double result = calculator.divide(4, 2);
+            System.out.println(result);
+        } catch (ArithmeticException e) {
+            e.printStackTrace();
+            System.out.println("Division by zero! Error " + e);
+        } finally {
+            System.out.println("The end...");
+        }
+    }
 }

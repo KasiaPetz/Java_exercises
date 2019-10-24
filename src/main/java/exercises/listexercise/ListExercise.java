@@ -23,6 +23,4 @@ public class ListExercise {
         return l;
     }*/
 
-
-
 }

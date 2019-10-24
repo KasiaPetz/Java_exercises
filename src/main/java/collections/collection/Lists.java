@@ -4,7 +4,6 @@ package collections.collection;
 import java.util.ArrayList;
 import java.util.List;
 
-
 //przyjmuje duplikaty
 //pamieta kolejnosc
 
@@ -13,7 +12,6 @@ public class Lists {
         List<String> arrayList = new ArrayList<>();
         //int[] array = { 1, 2, 3 };
         // List<Integer> linkedList = Arrays.asList(array);
-
 
         arrayList.add("Kasia");
         arrayList.add("Kasia");
@@ -47,7 +45,7 @@ public class Lists {
         System.out.println();
 
         for (String name : arrayList) {
-            System.out.println("Ptintln forLoop: " + name);
+            System.out.println("Println forLoop: " + name);
         }
 
         for (int i = 0; i < 30; i++) {
@@ -55,5 +53,4 @@ public class Lists {
         }
 
     }
-
 }

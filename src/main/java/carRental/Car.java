@@ -1,6 +1,6 @@
 package carRental;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle {
     private int numberOfDoors;
 
     public Car(int registrationNumber, int vinNumber, String color, double price,

@@ -6,7 +6,7 @@ public class ShapeDrawer {
 
     public static void rectangle(int height, int width) {
         for (int i = 0; i < height; i++) {
-            for (int j = 0; j < width ; j++) {
+            for (int j = 0; j < width; j++) {
                 System.out.print("*");
             }
             System.out.println();
@@ -15,22 +15,22 @@ public class ShapeDrawer {
 
     public static void frame(int height, int width) {
         for (int i = 0; i < height; i++) {
-                for (int j = 0; j < width; j++) {
-                    if( i == 0 || i == height - 1 ){
-                        System.out.print("*");
-                    }else if (j == 0 || j == width - 1) {
-                        System.out.print("*");
-                    } else {
-                        System.out.print(" ");
-                    }
+            for (int j = 0; j < width; j++) {
+                if (i == 0 || i == height - 1) {
+                    System.out.print("*");
+                } else if (j == 0 || j == width - 1) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
                 }
+            }
             System.out.println();
         }
     }
 
     public static void triangle(int height) {
         for (int i = 0; i < height; i++) {
-            for (int j = 0; j < i ; j++) {
+            for (int j = 0; j < i; j++) {
                 System.out.print("*");
             }
             System.out.println();
@@ -40,13 +40,13 @@ public class ShapeDrawer {
     public static void tree(int height) {
         int numberOfSpaces = height - 1;
 
-        for (int i = 1; i <= height ; i++) {
+        for (int i = 1; i <= height; i++) {
             for (int j = 1; j <= numberOfSpaces; j++) {
                 System.out.print(" ");
             }
             numberOfSpaces--;
 
-            for (int k = 1; k <= 2 * (i -1) + 1; k++) {
+            for (int k = 1; k <= 2 * (i - 1) + 1; k++) {
                 System.out.print("*");
             }
             System.out.println();
@@ -54,22 +54,21 @@ public class ShapeDrawer {
     }
 
     public static void bigL(int height, int width) {
-        for (int i = 0; i < height ; i++) {
+        for (int i = 0; i < height; i++) {
 
-            if (i <= height/2) {
+            if (i <= height / 2) {
                 for (int j = 0; j < width / 2; j++) {
                     System.out.print("*");
                 }
                 System.out.println();
             } else {
-                for (int j = 0; j < width ; j++) {
+                for (int j = 0; j < width; j++) {
                     System.out.print("*");
                 }
                 System.out.println();
             }
         }
     }
-
 
 
     public static void main(String[] args) {
@@ -82,11 +81,11 @@ public class ShapeDrawer {
         int width = sc.nextInt();
 
 
-       //rectangle(height, width);
-       //frame(height, width);
-       //triangle(height);
+        //rectangle(height, width);
+        //frame(height, width);
+        //triangle(height);
         // tree(height);
-       //bigL(height, width);
+        //bigL(height, width);
     }
 
 }

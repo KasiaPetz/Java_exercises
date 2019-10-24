@@ -24,12 +24,10 @@ public class IteratorExample {
             if (word.length() == 3) {
                 it.remove();
             }
-
         }
 
         System.out.println(stringList);
 
         stringList.removeIf(n -> n.length() == 3);
-
     }
 }

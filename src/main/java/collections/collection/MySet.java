@@ -4,7 +4,6 @@ package collections.collection;
 //LinkedHashSet pamieta kolejnosc ale i tak nie wyciagne po indeksie
 //nie przyjmuje duplikatów - przyjmie ponowne dodawanie ale nie zduplikuje
 //nie da sie chodzic po indeksach
-
 //do uzycia gdy: czesto zapisyane nowe obj, czesto zmiana obj istniejacego, czesto wyszukuje
 
 
@@ -35,7 +34,5 @@ public class MySet {
         System.out.println("Is empty: " + set.isEmpty());
 
         System.out.println("Contains: " + set.contains("Ewa"));
-
-
     }
 }

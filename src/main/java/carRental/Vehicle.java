@@ -93,11 +93,11 @@ public abstract class Vehicle {
     }
 
     public void drive(double distance) {
-       totalKm += distance;
-       amountOfFuelInLiters -= distance*fuelUsagePer100Km/100;
+        totalKm += distance;
+        amountOfFuelInLiters -= distance * fuelUsagePer100Km / 100;
     }
 
     public void refuel(double fuel) {
-       amountOfFuelInLiters += fuel;
+        amountOfFuelInLiters += fuel;
     }
 }
