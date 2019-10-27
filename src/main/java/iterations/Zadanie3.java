@@ -57,7 +57,7 @@ public class Zadanie3 {
 
     public List<Integer> retriveNumbersByStream(List<Integer> list) {
         return list.stream()
-                .filter(n -> n >=20 && n <=120)
+                .filter(n -> n >= 20 && n <= 120)
                 .collect(Collectors.toList());
     }
 

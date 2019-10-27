@@ -13,7 +13,7 @@ public class Zadanie1 {
 
     public static void main(String[] args) {
 
-        int tablica[] = RandomUtils.generateRandomIntArrayWithLogs(10, 0,10);
+        int tablica[] = RandomUtils.generateRandomIntArrayWithLogs(10, 0, 10);
 
         int max = maxFinder(tablica);
         int min = minFinder(tablica);
@@ -27,8 +27,8 @@ public class Zadanie1 {
     public static int maxFinder(int[] tab) {
         int max = tab[0];
 
-        for(int i = 0; i < tab.length; i++) {
-            if(tab[i] > max) {
+        for (int i = 0; i < tab.length; i++) {
+            if (tab[i] > max) {
                 max = tab[i];
             }
         }
@@ -38,8 +38,8 @@ public class Zadanie1 {
     public static int minFinder(int[] tab) {
         int min = tab[0];
 
-        for(int i = 0; i < tab.length; i++) {
-            if( tab[i] < min) {
+        for (int i = 0; i < tab.length; i++) {
+            if (tab[i] < min) {
                 min = tab[i];
             }
         }
@@ -47,14 +47,14 @@ public class Zadanie1 {
     }
 
     public static double calculateAvg(int[] tab) {
-       int sum = 0;
+        int sum = 0;
 
-       for(int i = 0; i < tab.length; i++) {
-           sum = sum + tab[i];
-       }
+        for (int i = 0; i < tab.length; i++) {
+            sum = sum + tab[i];
+        }
 
-       double avrg = (double) sum / tab.length;
-       return avrg ;
+        double avrg = (double) sum / tab.length;
+        return avrg;
     }
 }
 

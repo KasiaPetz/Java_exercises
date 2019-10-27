@@ -1,5 +1,7 @@
 package collections.collection;
 
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Objects;
 
 public class Car implements Comparable {
@@ -32,6 +34,9 @@ public class Car implements Comparable {
         if (this == o) return true;
         if (!(o instanceof Car)) return false;
         Car car = (Car) o;
+
+        Collections.sort(null, Car.getYearComparator());
+
         return getYear() == car.getYear() &&
                 Objects.equals(getBrand(), car.getBrand());
     }
@@ -50,4 +55,13 @@ public class Car implements Comparable {
 
         return this.getBrand().compareTo(car.getBrand());
     }
+
+    public static Comparator<Car> getBrandComparator() {
+        return Comparator.comparing(Car::getBrand);
+    }
+
+    public static Comparator<Car> getYearComparator() {
+        return Comparator.comparingInt(Car::getYear);
+    }
+
 }

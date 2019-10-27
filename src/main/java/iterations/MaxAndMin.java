@@ -11,29 +11,28 @@ import utils.RandomUtils;
 
 public class MaxAndMin {
 
-        int[] array = RandomUtils.generateRandomIntArray(10, 0, 9);
+    int[] array = RandomUtils.generateRandomIntArray(10, 0, 9);
 
-        public static int maxRetrival(int[] inputArray) {
-            int max = inputArray[0];
+    public static int maxRetrival(int[] inputArray) {
+        int max = inputArray[0];
 
-            for(int i = 0; i < inputArray.length; i++ ) {
-                if(inputArray[i] > max) {
-                    max = inputArray[i];
-                }
+        for (int i = 0; i < inputArray.length; i++) {
+            if (inputArray[i] > max) {
+                max = inputArray[i];
             }
+        }
+        return max;
+    }
 
-            return max;
+    public static double avgRetrival(int[] inputArray) {
+        int sum = 0;
+
+        for (int i = 0; i < inputArray.length; i++) {
+            sum = +inputArray[i];
         }
 
-        public static double avgRetrival(int[] inputArray) {
-            int sum = 0;
+        double average = (double) sum / inputArray.length;
 
-            for(int i = 0; i < inputArray.length; i++) {
-                sum =+ inputArray[i];
-            }
-
-            double average = (double) sum/ inputArray.length;
-
-            return average;
-        }
+        return average;
+    }
 }

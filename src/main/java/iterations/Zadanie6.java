@@ -22,10 +22,10 @@ public class Zadanie6 {
 
         char[][] table = new char[10][10];
 
-        for ( int i = 0; i < table.length; i++) {               // po wierszach
+        for (int i = 0; i < table.length; i++) {               // po wierszach
             for (int j = 0; j < table[i].length; j++) {
-               // table[i][j] = charGeneator('X','O');
-                if (j%2 == 0) {
+                // table[i][j] = charGeneator('X','O');
+                if (j % 2 == 0) {
                     table[i][j] = 'X';
                 } else {
                     table[i][j] = 'O';
@@ -35,7 +35,7 @@ public class Zadanie6 {
 
         for (int i = 0; i < table.length; i++) {                      // po wierszach
             for (int j = 0; j < table[i].length; j++) {               // po kolumnach
-              System.out.print(table[i][j]);
+                System.out.print(table[i][j]);
             }
             System.out.println();
         }
@@ -44,7 +44,7 @@ public class Zadanie6 {
 
     private static char charGeneator(char firstChar, char secondChar) {
         Random rd = new Random();
-        int random =  rd.nextInt(2);
+        int random = rd.nextInt(2);
 
         if (random == 0) {
             return firstChar;

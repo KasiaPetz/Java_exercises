@@ -1,59 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" line="29" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/board/None.java" line="13" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringImpl.java" line="2" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/calculator/Calculator.java" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/collection/MyQueque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iterations/numbersExaminator/Examinator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iterations/numbersExaminator/OddNumbersExaminator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iterations/numbersExaminator/OddNumbersStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWordLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reverseword/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/FormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/iterations/numbersExaminator/OddNumbersExaminatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciOptimalizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/calculator/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/BoardRow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/None.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/Pawn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/boardGame/Queen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/collection/IteratorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/collections/collection/IteratorExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/collection/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/collections/collection/Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/collections/collection/MySet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/collections/collection/MySet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exceptionsExample/CheckedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exceptionsExample/UncheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exceptionsExample/UncheckedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercises/listexercise/ListExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercises/listexercise/ListExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/fizzBuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/fizzBuzz/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/food2door/GlutenFreeShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/food2door/GlutenFreeShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exercises/repeatString/RepeatStringWithExeptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercises/repeatString/RepeatStringWithExeptionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exesandohs/ExesAndOhsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/food2door/OrderProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/food2door/OrderProcessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/BoardRow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/Figure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/None.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/Pawn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/boardGame/Queen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/IteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/MySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/listexercise/ListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/listexercise/ListExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/iterations/ShapeDrawer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/iterations/ShapeDrawer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/Queue.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/OddNumbersExeminator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exesandohs/ExesAndOhsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exesandohs/ExesAndOhsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/food2door/OrderProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/food2door/OrderProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Factional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/Factional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stream/forumUser/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/forumUser/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iterations/OddNumbersExeminatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,90 +51,15 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-73">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1008">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/RandomUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,153 +85,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciIterationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/recursion/fibonacci/FibonacciRecursionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/students/Calculations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" />
-        <option value="$PROJECT_DIR$/src/main/java/carRental/Truck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/carRental/Motocycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterations/MaxAndMin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/SortAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/test/java/sort/BubbleSortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stream/forumUser/NamesList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepaeatString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringWithExeption.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/PinValidator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterations/JoinArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/board/Figure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/listexercise/ListExercise.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/carRental/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/carRental/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/IteratorExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/Lists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/collection/MySet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exesandohs/ExesAndOhsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StringClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/food2door/OrderProcessorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="837" />
-    <option name="width" value="1091" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1SmXEWozKWsx8MG2jALBsyfN0BW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iterations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exesandohs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="food2door" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Korepetycje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iterations" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -329,10 +96,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571932183043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572168985715" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubblesort" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -340,13 +108,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="reverseword" />
+      <recent name="iterations.numbersExaminator" />
       <recent name="iterations" />
       <recent name="sort" />
       <recent name="recursion.fibonacci" />
-      <recent name="exercises" />
-      <recent name="exercises.repeatString" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="iterations.numbersExaminator" />
       <recent name="exercises.repeatString" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -371,13 +140,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EveryFiveSecond">
-    <configuration name="EveryFiveSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterations.EveryFiveSecond" />
-      <module name="Java_Korepetycje.Java_Korepetycje.main" />
+  <component name="RunManager" selected="Application.OperatorTrojargumentowy">
+    <configuration name="OperatorTrojargumentowy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.OperatorTrojargumentowy" />
+      <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterations.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,63 +154,93 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzz" />
-      <module name="Java_Korepetycje.Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fizzBuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="OddNumbersExaminatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;iterations.numbersExaminator.OddNumbersExaminatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java_Korepetycje.Java_Korepetycje.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="OddNumbersExaminatorTest.testOddNumbersExterminatorNormal" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;iterations.numbersExaminator.OddNumbersExaminatorTest.testOddNumbersExterminatorNormal&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="OrderProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Korepetycje.Java_Korepetycje.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="food2door.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="food2door" />
-      <option name="MAIN_CLASS_NAME" value="food2door.OrderProcessorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="ReverseWordTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;reverseword.ReverseWordTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="OrderProcessorTest.shouldProdessOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Korepetycje.Java_Korepetycje.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="food2door.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="food2door" />
-      <option name="MAIN_CLASS_NAME" value="food2door.OrderProcessorTest" />
-      <option name="METHOD_NAME" value="shouldProdessOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="ReverseWordTest.reverseWordTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;reverseword.ReverseWordTest.reverseWordTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EveryFiveSecond" />
-        <item itemvalue="JUnit.OrderProcessorTest" />
-        <item itemvalue="JUnit.OrderProcessorTest.shouldProdessOrder" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.OperatorTrojargumentowy" />
+        <item itemvalue="Gradle.ReverseWordTest.reverseWordTest" />
+        <item itemvalue="Gradle.ReverseWordTest" />
+        <item itemvalue="Gradle.OddNumbersExaminatorTest.testOddNumbersExterminatorNormal" />
+        <item itemvalue="Gradle.OddNumbersExaminatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -513,7 +312,9 @@
       <workItem from="1571340143211" duration="2313000" />
       <workItem from="1571386330362" duration="856000" />
       <workItem from="1571850360813" duration="2217000" />
-      <workItem from="1571908576462" duration="17675000" />
+      <workItem from="1571908576462" duration="27539000" />
+      <workItem from="1572166593112" duration="2385000" />
+      <workItem from="1572169008486" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor">
       <created>1570714202046</created>
@@ -546,40 +347,8 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="RepeatStringWithExeptionTest - 2019.10.10 at 14h 07m 01s.xml">
-      <configuration name="RepeatStringWithExeptionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciIterationTest - 2019.10.10 at 15h 27m 45s.xml">
-      <configuration name="FibonacciIterationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RepeatStringWithExeptionTest - 2019.10.10 at 15h 29m 20s.xml">
-      <configuration name="RepeatStringWithExeptionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordTest - 2019.10.15 at 20h 46m 48s.xml">
-      <configuration name="ReverseWordTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BubbleSortTest - 2019.10.15 at 21h 14m 38s.xml">
-      <configuration name="BubbleSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExesAndOhsTest - 2019.10.24 at 14h 18m 52s.xml">
-      <configuration name="ExesAndOhsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderProcessorTest_shouldProdessOrder - 2019.10.24 at 15h 06m 24s.xml">
-      <configuration name="OrderProcessorTest.shouldProdessOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderProcessorTest - 2019.10.24 at 15h 06m 49s.xml">
-      <configuration name="OrderProcessorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderProcessorTest - 2019.10.24 at 15h 09m 51s.xml">
-      <configuration name="OrderProcessorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderProcessorTest - 2019.10.24 at 15h 11m 24s.xml">
-      <configuration name="OrderProcessorTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345301000" />
+    <option name="totallyTimeSpent" value="357866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,474 +359,22 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32719395" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.23510292" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.33694476" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32910052" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.32910052" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32719395" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactor" />
     <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/board/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4862">
-          <caret line="332" column="59" selection-start-line="332" selection-start-column="7" selection-end-line="332" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3111">
-          <caret line="249" column="33" selection-start-line="249" selection-start-column="28" selection-end-line="249" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PinValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/DiselEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/ElectricEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/GasolineEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Motocycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1038#1039#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1963#1964#0" expanded="true" />
-            <element signature="e#2006#2007#0" expanded="true" />
-            <element signature="e#2176#2177#0" expanded="true" />
-            <element signature="e#2206#2207#0" expanded="true" />
-            <element signature="e#2252#2253#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2468#2469#0" expanded="true" />
-            <element signature="e#2511#2512#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/BoardRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/None.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/boardGame/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carRental/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/IteratorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/MySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/collection/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-844">
-          <caret line="2668" column="18" selection-start-line="2668" selection-start-column="18" selection-end-line="2668" selection-end-column="18" />
-          <folding>
-            <element signature="e#104675#104676#0" expanded="true" />
-            <element signature="e#104730#104731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exesandohs/ExesAndOhsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#697#698#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/food2door/OrderProcessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/ExtraFoodShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/HealthyShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/OrderRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/GlutenFreeShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/food2door/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/RandomUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/iterations/EveryFiveTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/ShapeDrawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1008">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

@@ -8,10 +8,10 @@ package iterations;
 public class Zadanie2 {
 
     //funkcja zwraca nowa tablice z liczbami od 20 do 120 z tablicy przekazanej jako argument
-    public int[] retrieveIntArray(int [] tab) {
+    public int[] retrieveIntArray(int[] tab) {
         int counter = 0;
 
-        for(int i = 0; i < tab.length; i++) {
+        for (int i = 0; i < tab.length; i++) {
             if (tab[i] >= 20 && tab[i] <= 120) {
                 counter++;
             }
@@ -20,7 +20,7 @@ public class Zadanie2 {
         int[] selectTab = new int[counter];
         int j = 0;
 
-        for(int i = 0; i < tab.length; i++) {
+        for (int i = 0; i < tab.length; i++) {
             if (tab[i] >= 20 && tab[i] <= 120) {
                 selectTab[j] = tab[i];
                 j++;
@@ -29,9 +29,9 @@ public class Zadanie2 {
         return selectTab;
     }
 
-    public void fiveDivided(int [] tab ) {
-        for(int i = 0; i < tab.length; i++) {
-            if( i % 5 == 0) {
+    public void fiveDivided(int[] tab) {
+        for (int i = 0; i < tab.length; i++) {
+            if (i % 5 == 0) {
                 System.out.print(tab[i] + " ");
             }
         }

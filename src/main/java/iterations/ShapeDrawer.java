@@ -70,7 +70,6 @@ public class ShapeDrawer {
         }
     }
 
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -79,7 +78,6 @@ public class ShapeDrawer {
 
         System.out.println("Podaj szerokość");
         int width = sc.nextInt();
-
 
         //rectangle(height, width);
         //frame(height, width);

@@ -1,33 +1,17 @@
 package reverseword;
 
 
-public class ReverseWord {
+public class ReverseWord implements StringReverse {
 
-    public static String reverseWord(String input) {
+    public String reverseWord(String input) {
 
-        StringBuilder sb = new StringBuilder(input);  
+        StringBuilder sb = new StringBuilder(input);
 
         String revWord = sb.reverse().toString();
 
         return revWord;
     }
 
-    public static String reverseWordWithLoop(String input) {
-        int len = input.length();
-        char[] tempCharArray = new char[len];
-        char[] charArray = new char[len];
-
-        for (int i = 0; i < len; i++) {
-            tempCharArray[i] = input.charAt(i);
-        }
-
-        for (int j = 0; j < len; j++) {
-            charArray[j] = tempCharArray[len - 1 - j];
-        }
-
-        String revWord = new String(charArray);
-        return revWord;
-    }
 }
 
 //
