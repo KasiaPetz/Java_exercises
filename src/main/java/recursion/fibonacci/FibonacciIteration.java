@@ -8,7 +8,7 @@ public class FibonacciIteration implements Fibonacci {
         int secondNumber = 1;
         int result = 1;
 
-        for(int i=2; i<n; i++) {
+        for (int i = 2; i < n; i++) {
             result = firstNumber + secondNumber;
             firstNumber = secondNumber;
             secondNumber = result;

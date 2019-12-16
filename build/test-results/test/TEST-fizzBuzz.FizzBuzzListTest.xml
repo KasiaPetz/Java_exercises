@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fizzBuzz.FizzBuzzListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-18T21:22:41" hostname="LAPTOP-OSI1RABP" time="0.102">
+  <properties/>
+  <testcase name="test1" classname="fizzBuzz.FizzBuzzListTest" time="0.102"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

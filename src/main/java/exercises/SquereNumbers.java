@@ -11,7 +11,6 @@ public class SquereNumbers {
                 return true;
             }
         }
-
         return false;
     }
 
