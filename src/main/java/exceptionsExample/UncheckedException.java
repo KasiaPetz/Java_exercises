@@ -1,6 +1,6 @@
 package exceptionsExample;
 
-import calculator.Calculator;
+import exercises.Calculator;
 //Metoda divide może wyrzucić wyjątek.
 //Ale jest to wyjatek typu unchecked czyli nie musismy robic bloku try catch.
 //Ale mozemy!!! Po prostu jest to opcjonalne.

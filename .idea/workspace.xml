@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/Factional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzBuzz/FizzBuzzIfListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzBuzz/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/DivisonableNb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/PositivesSumNegatives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/GenderCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/codresWarsExercises/PositivesSumNegativesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/pesel/PeselServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -24,16 +20,29 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercises/SquereNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exercises/SquereNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fizzBuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fizzBuzz/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/recursion/fibonacci/FibonacciRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/recursion/fibonacci/FibonacciRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/iterations/OddNumbersExeminatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reverseword/ReverseWordTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/SquereNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Factional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fizzBuzz/FizzBuzzConcat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fizzBuzz/FizzBuzzConcat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/recursion/Factional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/fizzBuzz/FizzBuzzListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/fizzBuzz.FizzBuzzListTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/fizzBuzz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-fizzBuzz.FizzBuzzListTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExample/UncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/repeatString/RepeatStringImplWithExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImplWithExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exesandohs/ExesAndOhs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/exesandohs/ExesAndOhs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/reveseWord/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/ReverseWordLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/reveseWord/ReverseWordLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseword/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/reveseWord/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/repeatString/RepeatStringWithExeptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strings/repeatString/RepeatStringWithExeptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exesandohs/ExesAndOhsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/exesandohs/ExesAndOhsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fizzBuzz/FizzBuzzTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,13 +115,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises.codresWarsExercises" />
+      <recent name="exercises.pesel" />
       <recent name="fizzBuzz" />
       <recent name="reverseword" />
       <recent name="iterations.numbersExaminator" />
-      <recent name="iterations" />
-      <recent name="sort" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="exercises.pesel" />
       <recent name="iterations.numbersExaminator" />
       <recent name="exercises.repeatString" />
     </key>
@@ -138,13 +148,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzzSwitch">
-    <configuration name="FizzBuzzSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzSwitch" />
+  <component name="RunManager" selected="Application.PositivesSumNegatives">
+    <configuration name="DivisonableNb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.codresWarsExercises.DivisonableNb" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fizzBuzz.*" />
+          <option name="PATTERN" value="exercises.codresWarsExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorTrojargumentowy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.OperatorTrojargumentowy" />
+    <configuration name="PositivesSumNegatives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.codresWarsExercises.PositivesSumNegatives" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="exercises.codresWarsExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciOptimalizationTest.fibonacciOptimalizationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PeselServiceTest.averageAge" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;recursion.fibonacci.FibonacciOptimalizationTest.fibonacciOptimalizationTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;exercises.pesel.PeselServiceTest.averageAge&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -185,12 +195,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FizzBuzzListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PeselServiceTest.genderCountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;fizzBuzz.FizzBuzzListTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;exercises.pesel.PeselServiceTest.genderCountTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -205,12 +215,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FizzBuzzListTest.test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PeselServiceTest.sssss" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;fizzBuzz.FizzBuzzListTest.test1&quot;" />
+        <option name="scriptParameters" value="--tests &quot;exercises.pesel.PeselServiceTest.sssss&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -227,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FizzBuzzSwitch" />
-        <item itemvalue="Gradle.FizzBuzzListTest" />
-        <item itemvalue="Gradle.FizzBuzzListTest.test1" />
-        <item itemvalue="Gradle.FibonacciOptimalizationTest.fibonacciOptimalizationTest" />
-        <item itemvalue="Application.OperatorTrojargumentowy" />
+        <item itemvalue="Application.PositivesSumNegatives" />
+        <item itemvalue="Application.DivisonableNb" />
+        <item itemvalue="Gradle.PeselServiceTest.averageAge" />
+        <item itemvalue="Gradle.PeselServiceTest.sssss" />
+        <item itemvalue="Gradle.PeselServiceTest.genderCountTest" />
       </list>
     </recent_temporary>
   </component>

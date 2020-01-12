@@ -17,4 +17,9 @@ public class FizzBuzzConcat implements FizzBuzz {
             System.out.println(result);
         }
     }
+
+    public static void main(String[] args) {
+        FizzBuzz fbz = new FizzBuzzConcat();
+        fbz.fizzBuzz();
+    }
 }

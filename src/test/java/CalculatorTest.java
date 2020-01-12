@@ -1,4 +1,4 @@
-import calculator.Calculator;
+import exercises.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
