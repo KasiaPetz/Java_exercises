@@ -10,8 +10,8 @@ public class PositivesSumNegatives {
         int positiveNbQnt = 0;
         int negativeNbSum = 0;
 
-        if (input.length == 0) {
-            return resultArray;
+        if (input == null || input.length == 0) {
+            return new int[0];
         }
 
         for (int i = 0; i < input.length; i++) {
@@ -23,16 +23,16 @@ public class PositivesSumNegatives {
                 negativeNbSum += input[i];
             }
 
-            resultArray[0] = positiveNbQnt;
-            resultArray[1] = negativeNbSum;
         }
+        resultArray[0] = positiveNbQnt;
+        resultArray[1] = negativeNbSum;
 
         return resultArray; //return an array with count of positives and sum of negatives
     }
 
     public static void main(String[] args) {
         int[] imputArray = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15};
-        int[] imputEmptyArray = new int[0];
+        int[] imputEmptyArray = new int[0]; // czy lepiej null ?
 
        int[] resultArray = countPositivesSumNegatives(imputArray);
         for (int i = 0; i < resultArray.length ; i++) {

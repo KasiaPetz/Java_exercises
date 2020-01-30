@@ -1,6 +1,5 @@
 package exercises.codresWarsExercises;
 
-import org.junit.Test;
 
 public class PositivesSumNegativesTest {
 

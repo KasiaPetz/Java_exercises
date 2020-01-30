@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="exercises.pesel.PeselServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-08T17:21:57" hostname="LAPTOP-OSI1RABP" time="0.135">
-  <properties/>
-  <testcase name="averageAge" classname="exercises.pesel.PeselServiceTest" time="0.135"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
