@@ -68,7 +68,7 @@ public class Main {
 
         //tworzenie pustych wierszy
         for (int i = 0; i < 8; i++) {
-            //tworzenie obiektu BoardRow czyli wiersza (narazie pustego)
+            //tworzenie obiektu BoardRow czyli wiersza (na razie pustego)
             BoardRow boardRow = new BoardRow();
 
             //dodanie go do Board (a dokadniej do listy wierszy w board
