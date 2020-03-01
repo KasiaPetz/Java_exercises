@@ -9,7 +9,7 @@ public class OddNumbersExaminator implements Examinator {
     public List<Integer> examinate(List<Integer> inputList) {
         List<Integer> resultList = new ArrayList<>();
 
-        for(Integer element : inputList) {
+        for (Integer element : inputList) {
             if (element % 2 == 0) {
                 resultList.add(element);
             }

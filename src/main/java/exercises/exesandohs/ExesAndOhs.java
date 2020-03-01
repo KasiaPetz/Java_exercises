@@ -10,10 +10,10 @@ public class ExesAndOhs {
         int xCounter = 0;
         input = input.toLowerCase();
 
-        for(char c : input.toCharArray()) {
+        for (char c : input.toCharArray()) {
             if (c == 'x') {
                 xCounter++;
-            } else if(c == 'o') {
+            } else if (c == 'o') {
                 oCounter++;
             }
         }

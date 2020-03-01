@@ -6,7 +6,7 @@ package iterations;
 public class Zadanie5 {
 
     public int[] joinArrays(int[] first, int[] second) {
-        int[] joinedArray = new int[first.length  + second.length];
+        int[] joinedArray = new int[first.length + second.length];
         int j = 0;
 
         for (int i = 0; i < first.length; i++) {
@@ -23,8 +23,7 @@ public class Zadanie5 {
     }
 
     public int[] joinArrays(int[] first, int[] second, int[] third) {
-        //milej zabawy ;)
-        int [] joinedArray = new int[first.length  + second.length + third.length];
+        int[] joinedArray = new int[first.length + second.length + third.length];
         int j = 0;
 
         for (int i = 0; i < first.length; i++) {

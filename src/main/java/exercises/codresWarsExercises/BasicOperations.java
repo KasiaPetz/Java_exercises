@@ -11,7 +11,7 @@ public class BasicOperations {
             case "+":
                 return v1 + v2;
             case "-":
-               return v1 - v2;
+                return v1 - v2;
             case "*":
                 return v1 * v2;
             case "/":

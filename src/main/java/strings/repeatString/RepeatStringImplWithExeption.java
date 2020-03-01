@@ -9,16 +9,17 @@ public class RepeatStringImplWithExeption implements RepeatString {
     public String repeatStr(int repeat, String string) {
         String s = "";
 
-        if(repeat < 0) {
+        if (repeat < 0) {
             throw new IllegalArgumentException("Number of repetitions must be greather than 0");
         }
+
         for (int i = 0; i < repeat; i++) {
-           s = s.concat(string);
+            s = s.concat(string);
         }
         return s;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String result = null;
         try {
             RepeatString repeatString = new RepeatStringImplWithExeption();

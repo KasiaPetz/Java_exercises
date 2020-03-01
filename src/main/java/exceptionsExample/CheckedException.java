@@ -13,7 +13,7 @@ public class CheckedException {
             FileReader fileReader = new FileReader(file);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
-          }
+        }
     }
 
 }

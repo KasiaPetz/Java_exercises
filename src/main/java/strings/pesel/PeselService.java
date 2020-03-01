@@ -10,7 +10,7 @@ public class PeselService implements Counter {
     public double averageAge(List<String> peselsList) {
         int sum = 0;
 
-        for(String pesel: peselsList) {
+        for (String pesel : peselsList) {
             LocalDate birthday = getLocalDateFromPesel(pesel);
             LocalDate now = LocalDate.now();
 
@@ -19,7 +19,7 @@ public class PeselService implements Counter {
             sum += age;
         }
 
-        return (double) sum/peselsList.size();
+        return (double) sum / peselsList.size();
     }
 
     private LocalDate getLocalDateFromPesel(String pesel) {

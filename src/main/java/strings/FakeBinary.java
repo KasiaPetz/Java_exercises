@@ -11,15 +11,14 @@ public class FakeBinary {
         StringBuilder sb = new StringBuilder();
 
         for (char c : charArray) {
-           int liczba = Character.getNumericValue(c);
+            int liczba = Character.getNumericValue(c);
 
             if (liczba < 5) {
-               sb.append(0);
-           } else {
-               sb.append(1);
-           }
+                sb.append(0);
+            } else {
+                sb.append(1);
+            }
         }
-
         return sb.toString();
     }
 

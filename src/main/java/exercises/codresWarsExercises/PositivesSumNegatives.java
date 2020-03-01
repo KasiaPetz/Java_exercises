@@ -18,7 +18,7 @@ public class PositivesSumNegatives {
             if (input[i] > 0) {
                 // dodawaj ilośc liczb
                 positiveNbQnt++;
-            } else if ( input[i] < 0) {
+            } else if (input[i] < 0) {
                 // sumuj wartosc
                 negativeNbSum += input[i];
             }
@@ -31,16 +31,16 @@ public class PositivesSumNegatives {
     }
 
     public static void main(String[] args) {
-        int[] imputArray = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15};
-        int[] imputEmptyArray = new int[0]; // czy lepiej null ?
+        int[] imputArray = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15};
+        int[] imputEmptyArray = new int[0];
 
-       int[] resultArray = countPositivesSumNegatives(imputArray);
-        for (int i = 0; i < resultArray.length ; i++) {
+        int[] resultArray = countPositivesSumNegatives(imputArray);
+        for (int i = 0; i < resultArray.length; i++) {
             System.out.println(resultArray[i]);
         }
 
         int[] resultEmptyArray = countPositivesSumNegatives(imputEmptyArray);
-        for (int i = 0; i < resultEmptyArray.length ; i++) {
+        for (int i = 0; i < resultEmptyArray.length; i++) {
             System.out.println(resultEmptyArray[i]);
         }
     }

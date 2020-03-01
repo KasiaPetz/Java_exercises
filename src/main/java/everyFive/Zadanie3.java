@@ -1,10 +1,7 @@
-package iterations;//package iterations;
+package everyFive;//package iterations;
 
 //Stworz litste intow. Uzupelnij liste 20stoma liczbami pseudolosowymi do 120.
-//Wyswietl cala liste.
-
-//Za pomocą pętli for wyświetl liczby z listy z przedzialu od 20 do 120 - metoda
-
+//wyświetl liczby z listy z przedzialu od 20 do 120 - metoda
 //Wyświetl co piątą liczbe z listy
 
 import java.util.ArrayList;

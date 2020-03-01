@@ -2,31 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/games/BoardGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/games/GamesList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/games/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/NumberToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/StringToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/reveseWord/ReverseWordStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/EveryFiveBis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/EveryFiveForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/EveryFiveForI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/EveryFiveStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/EveryFiveWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/RandomListGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everyFive/List/Selctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iterations/RandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/exercises.codresWarsExercises.BasicOpertionsTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/exercises.codresWarsExercises.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-exercises.codresWarsExercises.BasicOpertionsTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/board/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/board/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stream/games/GamesList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/strings/NumberToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/strings/NumberToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/collection/MyMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExample/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/BasicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/BasicOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/DivisonableNb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/DivisonableNb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/PositivesSumNegatives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/PositivesSumNegatives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/exesandohs/ExesAndOhs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/exesandohs/ExesAndOhs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzzSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/EveryFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/everyFive/EveryFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/EveryFiveSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/everyFive/EveryFiveSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/everyFive/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/Zadanie5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/Zadanie5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterations/numbersExaminator/OddNumbersExaminator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/iterations/numbersExaminator/OddNumbersExaminator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/factional/FactionalIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/FakeBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/FakeBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/FormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/FormatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImplWithExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/repeatString/RepeatStringImplWithExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iterations/Zadanie3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/iterations/Zadanie3Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,9 +94,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -150,7 +166,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.EveryFiveBis">
+    <configuration name="EveryFiveBis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="everyFive.EveryFiveBis" />
+      <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="everyFive.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EveryFiveSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="everyFive.EveryFiveSecond" />
+      <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="everyFive.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.games.Main" />
+      <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.games.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="board.Main" />
       <module name="Java_Korepetycje.main" />
@@ -164,72 +219,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.NumberToString" />
+    <configuration name="RandomArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.RandomArray" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="everyFive.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="SquereNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SquereNumbers" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.StringToNumber" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;strings.ReverseStringTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EveryFiveSecond" />
+        <item itemvalue="Application.EveryFiveBis" />
+        <item itemvalue="Application.RandomArray" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NumberToString" />
-        <item itemvalue="Application.StringToNumber" />
-        <item itemvalue="Application.SquereNumbers" />
-        <item itemvalue="Gradle.ReverseStringTest" />
       </list>
     </recent_temporary>
   </component>

@@ -12,7 +12,7 @@ public class FormatExample {
                 "wall of textwall of textwall of textwall of textwall of textwall of textwall of text" +
                 "wall of textwall of textwall {2} of textwall of textwall of textwall of textwall of textwall of textwall of textwall of text", 5, 10, 15));
 
-        System.out.println(String.format("Example of string format %d, %d, %d",5, 10, 15));
+        System.out.println(String.format("Example of string format %d, %d, %d", 5, 10, 15));
 
     }
 }

@@ -6,7 +6,7 @@ public class FizzBuzzSwitch {
         fizzBuzz();
     }
 
-    public static void fizzBuzz() {
+       public static void fizzBuzz() {
 
         String opcja = "D";
 

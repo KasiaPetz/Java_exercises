@@ -1,4 +1,4 @@
-package iterations;
+package everyFive;
 
 //Stworz tablice intow o rozmiarze 20. Uzupelnij cala tablice liczbami pseudolosowymi do 120.
 //Wyswietl cala tablice.
