@@ -6,7 +6,7 @@
 //
 //public class ReverseWordTest {
 //
-//    @Test
+//    @hackeranktest.Test
 //    public void reverseWordTest() {
 //        //given
 //        String word = "Michal";
