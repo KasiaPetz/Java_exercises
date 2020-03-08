@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackeranktest/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/MinDiff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -16,15 +12,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/collections/collection/MyMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/collections/collection/MyMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercises/codresWarsExercises/DivisonableNb.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exercises/codresWarsExercises/DivisonableNb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/recursion/fibonacci/FibonacciRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/recursion/fibonacci/FibonacciRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/strings/FakeBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/strings/FakeBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/strings/repeatString/RepeatStringImplWithExeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/strings/repeatString/RepeatStringImplWithExeption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/codresWarsExercises/PositivesSumNegativesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/codresWarsExercises/PositivesSumNegativesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reverseword/ReverseWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/EveryFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/EveryFiveSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Balance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerRank/Balance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad4.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +143,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Book">
+  <component name="RunManager" selected="Application.MinDiff">
+    <configuration name="Balance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Balance" />
+      <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Book" />
       <module name="Java_Korepetycje.main" />
@@ -162,38 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Calculator" />
+    <configuration name="MinDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.MinDiff" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EveryFiveBis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="everyFive.EveryFiveBis" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="everyFive.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EveryFiveSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="everyFive.EveryFiveSecond" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="everyFive.List.*" />
+          <option name="PATTERN" value="hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,19 +184,32 @@
       </method>
     </configuration>
     <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackeranktest.Zad1" />
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Zad1" />
       <module name="Java_Korepetycje.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackeranktest.Zad3" />
+      <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinDiff" />
+        <item itemvalue="Application.Zad3" />
+        <item itemvalue="Application.Balance" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.Zad1" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.EveryFiveSecond" />
-        <item itemvalue="Application.EveryFiveBis" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583084652970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactor">
+      <created>1583438035524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583438035524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
