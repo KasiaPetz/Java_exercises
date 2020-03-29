@@ -8,6 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class CarTest {
     @Test
     public void test1() {
+        //given
         Vehicle car = new Car(123,12, "red",10000.00,
                 20.00, 10,10.00, new DiselEngine(), 5 );
 
@@ -32,6 +33,7 @@ public class CarTest {
 
     @Test
     public void test3() {
+        //given
         Vehicle car = new Car(123,12, "red",10000.00,
                 20.00, 100,10.00, new DiselEngine(), 5 );
 

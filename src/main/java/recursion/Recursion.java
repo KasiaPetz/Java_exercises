@@ -5,7 +5,7 @@ public class Recursion {
     public int sumaIteracja(int n) {
         int suma = 0;
         while (n > 0) {
-            suma = suma + n;
+            suma += n;
             n--;
         }
         return suma;

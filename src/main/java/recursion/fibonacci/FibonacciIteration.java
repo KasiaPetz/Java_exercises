@@ -1,7 +1,7 @@
 package recursion.fibonacci;
 
 
-public class FibonacciIteration implements Fibonacci {
+public class  FibonacciIteration implements Fibonacci {
     @Override
     public int fibonacci(int n) {
         int firstNumber = 1;

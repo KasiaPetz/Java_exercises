@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/MinDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/EveryFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/EveryFiveSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iterations/Zadanie3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Balance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerRank/Balance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackeranktest/Zad4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carRental/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carRental/CarTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583438035524</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Refactor">
+      <created>1583699961825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583699961825</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
