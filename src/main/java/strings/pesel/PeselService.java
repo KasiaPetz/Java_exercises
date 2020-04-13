@@ -33,7 +33,7 @@ public class PeselService implements Counter {
             year += 1900;
         }
 
-        int day = Integer.parseInt(pesel.substring(4, 6));
+        int day = Integer.parseInt(pesel.substring(4, 6)); //pierwsza domknieta druga nie domknieta
 
         return LocalDate.of(year, month, day);
     }

@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/date/KlasaLocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/date/ToTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselCouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci/FibonacciIteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/carRental/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carRental/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hackerRank/Zad1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hackerRank/Zad2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/pesel/PeselService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +94,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trainingsManagmentApp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -129,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinDiff">
+  <component name="RunManager" selected="Application.ToTry">
     <configuration name="Balance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerRank.Balance" />
       <module name="Java_Korepetycje.main" />
@@ -143,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Book" />
+    <configuration name="KlasaLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date.KlasaLocalDate" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,9 +179,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank.Zad1" />
+    <configuration name="ToTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date.ToTry" />
       <module name="Java_Korepetycje.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToTry" />
+        <item itemvalue="Application.KlasaLocalDate" />
         <item itemvalue="Application.MinDiff" />
         <item itemvalue="Application.Zad3" />
         <item itemvalue="Application.Balance" />
-        <item itemvalue="Application.Book" />
-        <item itemvalue="Application.Zad1" />
       </list>
     </recent_temporary>
   </component>
