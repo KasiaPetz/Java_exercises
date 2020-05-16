@@ -1,4 +1,4 @@
-package exercises.codresWarsExercises.Average;
+package exercises.Average;
 
 import java.util.Arrays;
 

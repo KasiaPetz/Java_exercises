@@ -1,4 +1,4 @@
-package exercises.codresWarsExercises.Average;
+package exercises.Average;
 
 public class AverageCouter implements Average {
     @Override

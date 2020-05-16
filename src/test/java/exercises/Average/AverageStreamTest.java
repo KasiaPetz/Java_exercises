@@ -1,4 +1,4 @@
-package exercises.codresWarsExercises.Average;
+package exercises.Average;
 
 
 import org.junit.jupiter.api.Test;
