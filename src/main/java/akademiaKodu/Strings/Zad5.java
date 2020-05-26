@@ -7,7 +7,7 @@ public class Zad5 {
         char firstLetter = input.charAt(0);
         char expectedFirstLetter = 'A';
 
-        if(firstLetter == expectedFirstLetter) {
+        if (firstLetter == expectedFirstLetter) {
             return true;
         }
         return false;
@@ -18,6 +18,8 @@ public class Zad5 {
         Scanner sc = new Scanner(System.in);
         String word = sc.next();
 
-        System.out.println(firstLetterValidator(word));
+       // System.out.println(firstLetterValidator(word));
+        System.out.println(word.startsWith("A"));
     }
+
 }

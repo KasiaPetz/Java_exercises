@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Zad10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Zad11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Zad5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Zad7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad3.java" afterDir="false" />
+    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="Refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/InkrementacjaDekrementacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/LevelEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -23,13 +14,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercises/codresWarsExercises/Average/Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercises/codresWarsExercises/Average/AverageCouter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercises/codresWarsExercises/Average/AverageStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/Average/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Average/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/Average/AverageCouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Average/AverageCouter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/codresWarsExercises/Average/AverageStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Average/AverageStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/codresWarsExercises/Average/AverageStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/Average/AverageStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +52,6 @@
                 <item name="Java_Korepetycje" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Java_Korepetycje" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -158,13 +140,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zad5">
-    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.Strings.Zad1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="akademiaKodu.instrukcjeWarunkowe.InkrementacjaDekrementacja" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="akademiaKodu.Strings.*" />
+          <option name="PATTERN" value="akademiaKodu.instrukcjeWarunkowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.Strings.Zad2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumexample.Main" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="akademiaKodu.Strings.*" />
+          <option name="PATTERN" value="enumexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InkrementacjaDekrementacja" />
         <item itemvalue="Application.Zad5" />
         <item itemvalue="Application.Zad4" />
         <item itemvalue="Application.Zad3" />
-        <item itemvalue="Application.Zad2" />
-        <item itemvalue="Application.Zad1" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586779474920</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Refactor">
+      <created>1589647544069</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589647544069</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

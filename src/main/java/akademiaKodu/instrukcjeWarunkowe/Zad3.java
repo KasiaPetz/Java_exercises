@@ -17,7 +17,7 @@ public class Zad3 {
         if (password.equals("Akademia") || password.equals("akademia")) {
             System.out.println("Podałeś poprawne hasło ");
         } else {
-            System.out.println("Nie podłeś poprawnego hasła");
+            System.out.println("Nie podałeś poprawnego hasła");
         }
     }
 }

@@ -1,14 +1,10 @@
 package akademiaKodu.Strings;
 
 import java.util.Scanner;
-//sprawdzic
+
 public class Zad3 {
     public static boolean isAkademia(String input) {
-        String controlWord = "Akademia";
-        if (input == controlWord) {
-            return true;
-        }
-        return false;
+        return input.equals("Akademia");
     }
 
     public static void main(String[] args) {
