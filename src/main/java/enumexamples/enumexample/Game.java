@@ -1,4 +1,4 @@
-package enumexample;
+package enumexamples.enumexample;
 
 
 public class Game {

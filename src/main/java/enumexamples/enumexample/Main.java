@@ -1,4 +1,4 @@
-package enumexample;
+package enumexamples.enumexample;
 
 public class Main {
     public static void main(String[] args) {

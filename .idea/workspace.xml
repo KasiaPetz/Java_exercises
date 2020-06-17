@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/InkrementacjaDekrementacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/LevelEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumexample/Main.java" afterDir="false" />
+    <list default="true" id="4740912a-0cfb-46f0-a8e9-b6dd578e2afe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexamples/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexamples/example2/Tshirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumexamples/example2/TshirtSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/teams/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/teams/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/teams/Teams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stream/teams/TeamsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -14,9 +17,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/Strings/Zad5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/akademiaKodu/instrukcjeWarunkowe/Zad3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumexample/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumexamples/enumexample/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumexample/LevelEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumexamples/enumexample/LevelEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumexample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumexamples/enumexample/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +71,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -104,23 +109,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="stream.teams" />
       <recent name="strings" />
       <recent name="exercises.codresWarsExercises.Average" />
       <recent name="exercises.codresWarsExercises" />
       <recent name="exercises.pesel" />
-      <recent name="fizzBuzz" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="exercises.pesel" />
       <recent name="iterations.numbersExaminator" />
       <recent name="exercises.repeatString" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="utils" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kasia\Desktop\ptojekty Java\exercises\src\main\java\aK\company\instrukcjeWarunkowe" />
@@ -140,13 +145,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="InkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.instrukcjeWarunkowe.InkrementacjaDekrementacja" />
+  <component name="RunManager" selected="Gradle.TeamsTest.retriveTeamByPlayerLoop">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumexamples.example2.Main" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="akademiaKodu.instrukcjeWarunkowe.*" />
+          <option name="PATTERN" value="enumexamples.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumexample.Main" />
+    <configuration name="Tshirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumexamples.example2.Tshirt" />
       <module name="Java_Korepetycje.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumexample.*" />
+          <option name="PATTERN" value="enumexamples.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,52 +172,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.Strings.Zad3" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="akademiaKodu.Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="TeamsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stream.teams.TeamsTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.Strings.Zad4" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="akademiaKodu.Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="TeamsTest.retriveTeamByPlayerLoop" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stream.teams.TeamsTest.retriveTeamByPlayerLoop&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akademiaKodu.Strings.Zad5" />
-      <module name="Java_Korepetycje.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="akademiaKodu.Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="TeamsTest.retriveTeamByPlayerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stream.teams.TeamsTest.retriveTeamByPlayerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InkrementacjaDekrementacja" />
-        <item itemvalue="Application.Zad5" />
-        <item itemvalue="Application.Zad4" />
-        <item itemvalue="Application.Zad3" />
+        <item itemvalue="Gradle.TeamsTest.retriveTeamByPlayerLoop" />
+        <item itemvalue="Gradle.TeamsTest.retriveTeamByPlayerTest" />
+        <item itemvalue="Gradle.TeamsTest" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Tshirt" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589647544069</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Refactor">
+      <created>1590508774727</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590508774727</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
